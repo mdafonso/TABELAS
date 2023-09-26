@@ -1,0 +1,40 @@
+header {
+    background-color: white;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+/* Estilos para a tabela */
+table {
+    width: 80%;
+    margin: 20px auto;
+    
+}
+
+thead {
+    color: #fff;
+    
+}
+
+table,th, td {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #8a396f;
+    border-collapse: collapse;
+}
+th{
+    font-size: 17px;
+    background-color: #5436d8;
+    color: #fff;
+  }
+
+
+footer {
+    background-color: white;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+
